@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.appyfypoc",
+    "sha256_cert_fingerprints":
+    ["03:16:D9:0C:FE:BF:9A:EC:1B:52:32:B2:F0:BC:3C:B1:1E:D8:45:68:4D:6B:1C:85:8D:73:52:4B:02:A4:BF:2C"]
+  }
+}]
